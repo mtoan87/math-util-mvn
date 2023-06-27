@@ -21,7 +21,7 @@ public class MathUtilityAdvancedTest {
                                {1,1},
                                {2,2},
                                {4,24},
-                               {6,720},
+                               {6,7200},
                                {5,120}};
         return testData;
     }                                                   //    cot 0   cot 1
